@@ -1,0 +1,27 @@
+beautifulsoup4
+fastapi[all]
+gunicorn
+httpbin
+httpx[http2]
+ipycytoscape
+ipympl
+Jinja2
+jupyter_server != 2.11.0
+jupyterlab
+jupyterlab_rise
+jupytext
+lxml
+nbconvert
+nbgitpuller
+networkx
+numpy
+matplotlib
+regex
+RISE
+ruff
+scipy
+spacy >= 3.7
+spacy_streamlit
+sqlalchemy
+streamlit
+uvicorn
